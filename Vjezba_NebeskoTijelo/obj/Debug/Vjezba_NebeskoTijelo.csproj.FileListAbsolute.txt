@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Vjezba_NebeskoTijelo\Vjezba_NebeskoTijelo\bin\Debug\Vjezba_NebeskoTijelo.exe.config
+C:\Users\ucenik\source\repos\Vjezba_NebeskoTijelo\Vjezba_NebeskoTijelo\bin\Debug\Vjezba_NebeskoTijelo.exe
+C:\Users\ucenik\source\repos\Vjezba_NebeskoTijelo\Vjezba_NebeskoTijelo\bin\Debug\Vjezba_NebeskoTijelo.pdb
+C:\Users\ucenik\source\repos\Vjezba_NebeskoTijelo\Vjezba_NebeskoTijelo\obj\Debug\Vjezba_NebeskoTijelo.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Vjezba_NebeskoTijelo\Vjezba_NebeskoTijelo\obj\Debug\Vjezba_NebeskoTijelo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Vjezba_NebeskoTijelo\Vjezba_NebeskoTijelo\obj\Debug\Vjezba_NebeskoTijelo.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Vjezba_NebeskoTijelo\Vjezba_NebeskoTijelo\obj\Debug\Vjezba_NebeskoTijelo.exe
+C:\Users\ucenik\source\repos\Vjezba_NebeskoTijelo\Vjezba_NebeskoTijelo\obj\Debug\Vjezba_NebeskoTijelo.pdb
